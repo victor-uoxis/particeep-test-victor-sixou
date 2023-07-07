@@ -15,7 +15,7 @@ public class BasicTest {
     Integer tmp = 1;
     if (n >= 0 && i >= 0) {
       for (Integer it = 0; it < n; it++) {
-        if (tmp * i == 0 && i != 0)
+        if (tmp * i < 0 && i > 0)
           return Option.none();
         tmp *= i;
       }
