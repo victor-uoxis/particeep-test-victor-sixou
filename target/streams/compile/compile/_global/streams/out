@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/sucre/Boulot/stages/particeep/java-interview/src/main/java/async/AsyncTest.java:59:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   class of[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class io.vavr.Tuple2[0m
+[0m[[0m[31merror[0m] [0m[0mTuple2.of[0m
